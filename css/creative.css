@@ -121,7 +121,7 @@ aside {
           color: #222222; }
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-            color: #F05F40; } }
+            color: #4169E1; } }
 
 header {
   position: relative;
@@ -236,7 +236,7 @@ header {
   margin: 0 auto 20px; }
 
 .text-primary {
-  color: #F05F40 !important; }
+  color: #4169E1 !important; }
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
